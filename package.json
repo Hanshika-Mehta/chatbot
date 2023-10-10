@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chromadb": "^1.5.11",
+    "langchain": "^0.0.161",
+    "openai": "^4.11.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
